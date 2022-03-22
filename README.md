@@ -1,9 +1,11 @@
-### Olá, eu sou o Ismael Silva!
-### Aproveite!
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/5dbceaa1a843194de21c0262ce5be306.gif" width="75" height="75" border="0" alt="https://picasion.com/" />
 
+### Olá, eu sou o Ismael Silva!
+### Aproveite!
+
 <div>
-  <img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  <a href="https://www.linkedin.com/in/ismael-santos-b8b69b229/" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ismaelsilvafn@gmail.com" target="_blank"> <img alt="linkedin" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ![Ismael GitHub stats](https://github-readme-stats.vercel.app/api?username=ismaelsilvas&show_icons=true&theme=tokyonight)
