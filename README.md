@@ -1,6 +1,6 @@
 <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/5dbceaa1a843194de21c0262ce5be306.gif" width="75" height="75" border="0" alt="https://picasion.com/" />
 
-### Olá, eu sou o Ismael Silva!
+### Olá, eu sou Ismael Silva!
 ### Aproveite!
 
 <div>
