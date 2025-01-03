@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Programando desde 2022<br>- Cursando Ciência da Computação<br>- Meu objetivo é ser Dev Fullstack com foco em back-end<br>- Meu inglês é A2 ( por enquanto )</p>
+<p align="left">- Cursando Ciência da Computação<br>- Meu objetivo é ser Dev Fullstack com foco em back-end<br>- Meu inglês é A2 ( por enquanto )</p>
 
 ###
 
